@@ -118,7 +118,7 @@ body{
 }
 .box22{
     margin-top: 191px;
-    margin-left: 22px;
+    margin-left: 0px;
     position: absolute;
     display: flex;
     flex-direction: column;
